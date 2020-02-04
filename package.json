@@ -1,0 +1,27 @@
+{
+  "name": "is-require-working",
+  "version": "1.0.0",
+  "description": "Check if node's require() is working!",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/teodor6140/is-require-working.git"
+  },
+  "keywords": [
+    "is-odd",
+    "is-even",
+    "is-array",
+    "is-number",
+    "idk",
+    "useful"
+  ],
+  "author": "XXX_M0Ther_fuukEr_xXXx or whatever",
+  "license": "GPL-2.0-only",
+  "bugs": {
+    "url": "https://github.com/teodor6140/is-require-working/issues"
+  },
+  "homepage": "https://github.com/teodor6140/is-require-working#readme"
+}
